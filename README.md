@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&size=24&center=false&vCenter=true&lines=Data+Scientist+in+the+Making;Machine+Learning+Enthusiast;Passionate+about+AI;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
-<h3 align="center"> 🌟 Passionate Data Scientist | Aspiring ML Engineer | Creative Coder | Lifelong Learner</h3>
+<h3 align="center"> 🚀 Aspiring Data Scientist | 📊 Machine Learning Enthusiast | 🤖 AI Explorer </h3>
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tanvi0909&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi0909" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi0909" alt="tanvi0909" /></a> </p>
@@ -20,12 +21,18 @@ Hello! I'm a data science enthusiast with a knack for finding patterns in data a
 
 ## 🛠️ My Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8a1c82?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-8a1c82?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+
 
 ## 📊 GitHub Stats
 
