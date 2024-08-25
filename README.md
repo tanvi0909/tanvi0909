@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Tanvi Dhamanda</h1>
+<h1 align="center">Hi there! 👋 I'm Tanvi </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&size=24&center=false&vCenter=true&lines=Data+Scientist+in+the+Making;Machine+Learning+Enthusiast;Passionate+about+AI;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
