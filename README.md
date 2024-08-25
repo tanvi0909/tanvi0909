@@ -58,7 +58,6 @@ Hello! I'm a data science enthusiast with a knack for finding patterns in data a
 
 <!---## 🌱 Blog & Resources
 
-- Check out my blog where I share my learning journey, tutorials, and insights into data science: [Your Blog](http://yourwebsite.com/blog)
-- Featured Article: [Introduction to Web Scraping with Python](http://yourwebsite.com/blog/web-scraping-with-python) --->
+- Check out my blog where I share my learning journey, tutorials, and insights into data science: [Your Blog](http://yourwebsite.com/blog)--->
 
 > "Data is the new oil, and I'm learning to refine it!" 🚀
