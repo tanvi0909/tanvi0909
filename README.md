@@ -9,7 +9,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tanvi0909&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi0909" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi0909" alt="tanvi0909" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi0909" alt="tanvi0909" /></a> </p> --->
 
 ## 🎨 About Me
 Hello! I'm a data science enthusiast with a knack for finding patterns in data and solving complex problems. I'm currently pursuing a Master's in Data Science & Statistics, and I have hands-on experience in building and fine-tuning machine learning models, conducting data analysis, and performing web scraping.
