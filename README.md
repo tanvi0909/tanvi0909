@@ -5,13 +5,10 @@
 
 <h3 align="center"> 🚀 Aspiring Data Scientist | 📊 Machine Learning Enthusiast | 🤖 AI Explorer </h3>
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tanvi0909&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi0909" /> </p>
 
-<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi0909" alt="tanvi0909" /></a> </p> --->
-
 ## 🎨 About Me
+<img align="right" alt="procoder" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 Hello! I'm a data science enthusiast with a knack for finding patterns in data and solving complex problems. I'm currently pursuing a Master's in Data Science & Statistics, and I have hands-on experience in building and fine-tuning machine learning models, conducting data analysis, and performing web scraping.
 
 - 🎓 Master's in Data Science & Statistics
@@ -50,6 +47,7 @@ Hello! I'm a data science enthusiast with a knack for finding patterns in data a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi0909&theme=default" alt="GitHub Streak" />
 </div>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvi0909" alt="tanvi0909" /></a> </p>
 
 ## 🔗 Let's Connect!
 
